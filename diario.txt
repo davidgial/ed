@@ -1,6 +1,9 @@
+VirtualBox (pendiente de anotar)
+
+git:
+ crear usuario y repositorio en github (pendiente de anotar)
+
 git clone https://github.com/davidgial/ed.git
 git config --global user.name "davidgial"
 git config --global user.email davidgial1989@gmail.com
-git config --list
 git config --global push.default simple
-
