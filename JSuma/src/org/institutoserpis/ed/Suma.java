@@ -7,9 +7,9 @@ public class Suma {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		System.out.print("Introduce un número: ");
+		System.out.print("Introduce el primer número: ");
 		BigDecimal numero1 = new BigDecimal(scanner.nextLine());
-		System.out.print("Introduce el segundo: ");
+		System.out.print("Introduce el segundo número: ");
 		BigDecimal numero2 = new BigDecimal(scanner.nextLine());
 		
 		
